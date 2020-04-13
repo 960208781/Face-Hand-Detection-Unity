@@ -92,7 +92,7 @@ OR, conctact [Alchera](mailto:alchera@alcherinc.com).
 ---
 ### Until when can I use it?
 
-This SDK is available until **`2020/5/31`**. If you want to extend the deadline after the test, please contact [Alchera](mailto:alchera@alcherinc.com).<br>
-You can play with this project. but if you want to distribute your project, please contact [Alchera](mailto:alchera@alcherinc.com).<br><br>
+This SDK is available until **`2020/5/31`**. If you want to extend the deadline after the test, please contact [Alchera](mailto:alchera@alcherainc.com).<br>
+You can play with this project. but if you want to distribute your project, please contact [Alchera](mailto:alchera@alcherainc.com).<br><br>
 
 <p align="center">Copyright 2016. Alchera inc. All rights reserved.</p>
